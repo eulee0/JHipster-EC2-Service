@@ -1,4 +1,16 @@
-# CS499_A2
+## JHipster EC2 Service
+
+This service contains 3 entities: Author, Book, and Store. 
+The Author has a one-to-many relationship to Book and the Book has a many-to-one relationship to Author.
+The Book has a many-to-many relationship to Store and the Store has a many-to-many relationship to Book.
+
+The examples provided are of such:
+
+Authors: George Orwell, Ernest Hemingway, Mark Twain
+
+Books: 1984, The Old Man and the Sea, Adventures of Huckleberry Finn
+
+Stores: Barnes and Noble, Amazon, Borders
 
 This application was generated using JHipster 3.12.2, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v3.12.2](https://jhipster.github.io/documentation-archive/v3.12.2).
 
