@@ -1,0 +1,92 @@
+Manifest-Version: 1.0
+Class-Path: springfox-core-2.6.1.jar jodd-core-3.7.jar springfox-swagg
+ er2-2.6.1.jar bcprov-jdk15on-1.54.jar objenesis-2.1.jar json-smart-2.
+ 2.1.jar metrics-json-3.1.2.jar scala-reflect-2.11.8.jar jodd-log-3.7.
+ jar spring-test-4.3.4.RELEASE.jar liquibase-core-3.4.2.jar spring-bea
+ ns-4.3.4.RELEASE.jar spring-boot-test-autoconfigure-1.4.2.RELEASE.jar
+  gatling-recorder-2.2.0.jar xml-apis-1.4.01.jar swagger-annotations-1
+ .5.10.jar netty-transport-4.0.36.Final.jar spring-expression-4.3.4.RE
+ LEASE.jar spring-context-4.3.4.RELEASE.jar gatling-charts-highcharts-
+ 2.2.0.jar spring-cloud-localconfig-connector-1.2.3.RELEASE.jar snakey
+ aml-1.17.jar scala-parser-combinators_2.11-1.0.4.jar async-http-clien
+ t-2.0.0.jar gatling-jms-2.2.0.jar junit-4.12.jar HdrHistogram-2.1.8.j
+ ar spring-aop-4.3.4.RELEASE.jar metrics-servlet-3.1.2.jar spring-boot
+ -starter-data-jpa-1.4.2.RELEASE.jar metrics-annotation-3.1.2.jar jcl-
+ over-slf4j-1.7.21.jar spring-data-jpa-1.10.5.RELEASE.jar geronimo-jav
+ amail_1.4_mail-1.8.4.jar spring-boot-starter-security-1.4.2.RELEASE.j
+ ar jandex-2.0.0.Final.jar hibernate-jcache-5.2.4.Final.jar dom4j-1.6.
+ 1.jar jackson-core-2.8.4.jar springfox-spi-2.6.1.jar spring-boot-1.4.
+ 2.RELEASE.jar akka-actor_2.11-2.4.3.jar simpleclient-0.0.18.jar gatli
+ ng-jdbc-2.2.0.jar json-path-2.2.0.jar netty-buffer-4.0.36.Final.jar H
+ ikariCP-2.4.7.jar boopickle_2.11-1.1.3.jar spring-orm-4.3.4.RELEASE.j
+ ar mapstruct-jdk8-1.1.0.Final.jar assertj-core-3.5.2.jar reactive-str
+ eams-1.0.0.jar el-api-2.2.jar jboss-annotations-api_1.2_spec-1.0.0.Fi
+ nal.jar spring-boot-starter-cloud-connectors-1.4.2.RELEASE.jar common
+ s-pool-1.6.jar logback-core-1.1.7.jar h2-1.4.193.jar spring-boot-devt
+ ools-1.4.2.RELEASE.jar jackson-datatype-hibernate5-2.8.4.jar bcpkix-j
+ dk15on-1.54.jar gatling-redis-2.2.0.jar netty-reactive-streams-1.0.4.
+ jar spring-security-test-4.1.3.RELEASE.jar spring-security-core-4.1.3
+ .RELEASE.jar cglib-nodep-3.1.jar scala-logging_2.11-3.1.0.jar simplec
+ lient_dropwizard-0.0.18.jar accessors-smart-1.1.jar netty-resolver-2.
+ 0.0.jar jackson-annotations-2.7.3.jar Saxon-HE-9.7.0-4.jar undertow-c
+ ore-1.3.25.Final.jar spring-boot-actuator-1.4.2.RELEASE.jar gatling-c
+ ommons-2.2.0.jar fastring_2.11-0.2.4.jar validation-api-1.1.0.Final.j
+ ar spring-boot-starter-test-1.4.2.RELEASE.jar hibernate-commons-annot
+ ations-5.0.1.Final.jar geronimo-jms_1.1_spec-1.1.1.jar unbescape-1.1.
+ 0.RELEASE.jar spring-tx-4.3.4.RELEASE.jar spring-cloud-cloudfoundry-c
+ onnector-1.2.3.RELEASE.jar hppc-0.7.1.jar thymeleaf-spring4-2.1.5.REL
+ EASE.jar boon-reflekt-0.5.7-RC1.jar hibernate-core-5.2.4.Final.jar sp
+ ring-cloud-core-1.2.3.RELEASE.jar spring-plugin-metadata-1.2.0.RELEAS
+ E.jar awaitility-1.7.0.jar mockito-core-1.10.19.jar commons-io-2.5.ja
+ r spring-plugin-core-1.2.0.RELEASE.jar spring-context-support-4.3.4.R
+ ELEASE.jar tomcat-juli-8.5.6.jar boon-json-0.5.7-RC1.jar cdi-api-1.1.
+ jar spring-boot-starter-1.4.2.RELEASE.jar javassist-3.20.0-GA.jar spr
+ ing-boot-starter-web-1.4.2.RELEASE.jar antlr-2.7.7.jar undertow-webso
+ ckets-jsr-1.3.25.Final.jar ehcache-3.1.3.jar simpleclient_servlet-0.0
+ .18.jar netty-codec-4.0.36.Final.jar javax.el-3.0.0.jar jboss-websock
+ et-api_1.1_spec-1.1.0.Final.jar simpleclient_common-0.0.18.jar gatlin
+ g-http-2.2.0.jar netty-codec-dns-2.0.0.jar spring-web-4.3.4.RELEASE.j
+ ar ognl-3.0.8.jar aopalliance-1.0.jar xnio-api-3.3.6.Final.jar spring
+ -core-4.3.4.RELEASE.jar logback-classic-1.1.7.jar redisclient_2.11-3.
+ 0.jar scala-swing_2.11-1.0.2.jar netty-codec-http-4.0.36.Final.jar sp
+ ring-boot-loader-tools-1.4.2.RELEASE.jar springfox-spring-web-2.6.1.j
+ ar spring-boot-starter-jdbc-1.4.2.RELEASE.jar jsr250-api-1.0.jar jack
+ son-datatype-jsr310-2.7.3.jar commons-lang3-3.4.jar metrics-graphite-
+ 3.1.2.jar gatling-core-2.2.0.jar spring-boot-starter-logging-1.4.2.RE
+ LEASE.jar log4j-over-slf4j-1.7.21.jar springfox-schema-2.6.1.jar json
+ -20140107.jar javax.transaction-api-1.2.jar guava-18.0.jar logstash-l
+ ogback-encoder-4.7.jar slf4j-api-1.7.22.jar liquibase-slf4j-2.0.0.jar
+  undertow-servlet-1.3.25.Final.jar jackson-dataformat-csv-2.8.4.jar j
+ ackson-databind-2.7.3.jar json-20090211_1.jar thymeleaf-2.1.5.RELEASE
+ .jar metrics-core-3.1.2.jar jsonpath_2.11-0.6.6.jar akka-slf4j_2.11-2
+ .4.3.jar netty-transport-native-epoll-4.0.36.Final-linux-x86_64.jar m
+ ysql-connector-java-5.1.40.jar hibernate-entitymanager-5.0.11.Final.j
+ ar spring-boot-starter-thymeleaf-1.4.2.RELEASE.jar spring-boot-starte
+ r-aop-1.4.2.RELEASE.jar metrics-spring-3.1.2.jar jboss-interceptors-a
+ pi_1.1_spec-1.0.0.Beta1.jar jul-to-slf4j-1.7.21.jar spring-security-w
+ eb-4.1.3.RELEASE.jar geronimo-jta_1.1_spec-1.1.1.jar spring-security-
+ config-4.1.3.RELEASE.jar quicklens_2.11-1.4.6.jar scopt_2.11-3.4.0.ja
+ r scala-library-2.11.8.jar netty-resolver-dns-2.0.0.jar javax.servlet
+ -api-3.1.0.jar hibernate-jpa-2.1-api-1.0.0.Final.jar slf4j-api-1.7.21
+ .jar jsonassert-1.3.0.jar jboss-logging-3.3.0.Final.jar metrics-servl
+ ets-3.1.2.jar spring-data-commons-1.12.5.RELEASE.jar javax.inject-1.j
+ ar config-1.3.0.jar spring-boot-autoconfigure-1.4.2.RELEASE.jar metri
+ cs-jvm-3.1.2.jar swagger-models-1.5.10.jar aspectjweaver-1.8.9.jar sp
+ ring-boot-configuration-processor-1.4.2.RELEASE.jar asm-5.0.3.jar spr
+ ingfox-bean-validators-2.6.1.jar spring-security-data-4.1.3.RELEASE.j
+ ar spring-boot-starter-undertow-1.4.2.RELEASE.jar hibernate-validator
+ -5.2.4.Final.jar gatling-app-2.2.0.jar netty-common-4.0.36.Final.jar 
+ tomcat-jdbc-8.5.6.jar spring-jdbc-4.3.4.RELEASE.jar gatling-charts-2.
+ 2.0.jar hamcrest-library-1.3.jar jackson-datatype-json-org-2.7.3.jar 
+ thymeleaf-layout-dialect-1.4.0.jar gatling-metrics-2.2.0.jar classmat
+ e-1.3.3.jar xnio-nio-3.3.6.Final.jar spring-aspects-4.3.4.RELEASE.jar
+  jta-1.1.jar hibernate-envers-5.0.11.Final.jar jackson-datatype-hppc-
+ 2.7.3.jar hamcrest-core-1.3.jar scala-xml_2.11-1.0.5.jar spring-webmv
+ c-4.3.4.RELEASE.jar t-digest-3.1.jar metrics-healthchecks-3.1.2.jar g
+ roovy-2.4.7.jar springfox-swagger-common-2.6.1.jar spring-cloud-sprin
+ g-service-connector-1.2.3.RELEASE.jar cache-api-1.0.0.jar netty-handl
+ er-4.0.36.Final.jar jodd-lagarto-3.7.jar scala-java8-compat_2.11-0.7.
+ 0.jar spring-boot-test-1.4.2.RELEASE.jar spring-cloud-heroku-connecto
+ r-1.2.3.RELEASE.jar concurrentlinkedhashmap-lru-1.4.2.jar
+Main-Class: com.elee.cs499a2.Cs499A2App
+

@@ -1,0 +1,41 @@
+{
+    "fluentMethods": true,
+    "relationships": [
+        {
+            "relationshipName": "author",
+            "otherEntityName": "author",
+            "relationshipType": "many-to-one",
+            "otherEntityField": "name"
+        },
+        {
+            "relationshipName": "store",
+            "otherEntityName": "store",
+            "relationshipType": "many-to-many",
+            "ownerSide": false,
+            "otherEntityRelationshipName": "book"
+        }
+    ],
+    "fields": [
+        {
+            "fieldName": "title",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "description",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "publicationDate",
+            "fieldType": "LocalDate"
+        },
+        {
+            "fieldName": "price",
+            "fieldType": "BigDecimal"
+        }
+    ],
+    "changelogDate": "20170201231436",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "book",
+    "pagination": "no"
+}

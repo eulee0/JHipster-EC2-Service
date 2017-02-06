@@ -1,0 +1,8 @@
+version: '2'
+services:
+    cs499_a2-sonar:
+        container_name: cs499_a2-sonar
+        image: sonarqube:6.1-alpine
+        ports:
+            - 9000:9000
+            - 9092:9092

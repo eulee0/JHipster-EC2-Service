@@ -1,0 +1,28 @@
+{
+    "fluentMethods": true,
+    "relationships": [
+        {
+            "relationshipName": "book",
+            "otherEntityName": "book",
+            "relationshipType": "many-to-many",
+            "otherEntityField": "title",
+            "ownerSide": true,
+            "otherEntityRelationshipName": "store"
+        }
+    ],
+    "fields": [
+        {
+            "fieldName": "storeName",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "addres",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20170201231602",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "store",
+    "pagination": "no"
+}

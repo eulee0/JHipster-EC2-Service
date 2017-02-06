@@ -1,0 +1,16 @@
+version: '2'
+services:
+    cs499_a2-app:
+        image: cs499_a2
+        external_links:
+            - cs499_a2-mysql:mysql
+        environment:
+            - SPRING_PROFILES_ACTIVE=prod,swagger
+            - SPRING_DATASOURCE_URL=jdbc:mysql://mysql:3306/cs499_a2?useUnicode=true&characterEncoding=utf8&useSSL=false
+            - JHIPSTER_SLEEP=10 # gives time for the database to boot before the application
+        ports:
+            - 8080:8080
+    cs499_a2-mysql:
+        extends:
+            file: mysql.yml
+            service: cs499_a2-mysql
